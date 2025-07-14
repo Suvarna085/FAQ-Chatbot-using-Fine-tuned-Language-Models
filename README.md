@@ -20,8 +20,11 @@ This project implements an end-to-end FAQ chatbot system using a fine-tuned GPT-
 🔧 Setup Instructions
 After cloning the repository, follow the steps below to get started:
 
+
 1. Install Dependencies
+
 pip install -r requirements.txt
+
 Note: Ensure you are using Python 3.9, as some libraries used in this project may be incompatible with newer versions.
 
 2. Run the Code
