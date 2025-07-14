@@ -23,12 +23,12 @@ After cloning the repository, follow the steps below to get started:
 
 1. Install Dependencies
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
-Note: Ensure you are using Python 3.9, as some libraries used in this project may be incompatible with newer versions.
+    Note: Ensure you are using Python 3.9, as some libraries used in this project may be incompatible with newer versions.
 
 2. Run the Code
-Once dependencies are installed, you can execute the training, evaluation, and inference scripts directly.
+    Once dependencies are installed, you can execute the training, evaluation, and inference scripts directly.
 
 ⚠️ Current Status:
 The model has been trained on 2.5% of the SQuAD dataset for demonstration purposes. An updated version of the code with extended dataset usage and improved performance will be committed soon.
